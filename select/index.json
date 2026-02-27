@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "RUDE!",
+  "base_artist": "Hearts2Hearts",
+  "createdAt": "2026-02-27T22:46:48.245787Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rude Love",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/01_Rude_Love_f(x).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rude Love",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/02_Rude_Love_f(x).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rude Boy",
+      "artist": "Zeds Dead ft. Omar LinX",
+      "has_synced": false,
+      "path": "select/03_Rude_Boy_Zeds_Dead_ft._Omar_LinX.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rude - Ty Dolla $ign Interlude",
+      "artist": "dvsn feat. Ty Dolla $ign",
+      "has_synced": true,
+      "path": "select/04_Rude_-_Ty_Dolla_$ign_Interlude_dvsn_feat._Ty_Dolla_$ign.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rude (Ty Dolla $ign Interlude)",
+      "artist": "Ty Dolla $ign & dvsn",
+      "has_synced": true,
+      "path": "select/05_Rude_(Ty_Dolla_$ign_Interlude)_Ty_Dolla_$ign_&_dvsn.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rude Boy",
+      "artist": "K CAMP",
+      "has_synced": true,
+      "path": "select/06_Rude_Boy_K_CAMP.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rude Boy",
+      "artist": "Leila K",
+      "has_synced": true,
+      "path": "select/07_Rude_Boy_Leila_K.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rude Boy (Phat Swede Dub)",
+      "artist": "Leila K",
+      "has_synced": false,
+      "path": "select/08_Rude_Boy_(Phat_Swede_Dub)_Leila_K.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rude Boy (Stonebridge Radio)",
+      "artist": "Leila K",
+      "has_synced": false,
+      "path": "select/09_Rude_Boy_(Stonebridge_Radio)_Leila_K.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don't Be Rude",
+      "artist": "YACHT",
+      "has_synced": true,
+      "path": "select/10_Don't_Be_Rude_YACHT.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Politik Kills - Rude Barriobeat Remix",
+      "artist": "Manu Chao",
+      "has_synced": false,
+      "path": "select/11_Politik_Kills_-_Rude_Barriobeat_Remix_Manu_Chao.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Politik Kills - Rude Barriobeat Remix (Instrumental)",
+      "artist": "Manu Chao",
+      "has_synced": false,
+      "path": "select/12_Politik_Kills_-_Rude_Barriobeat_Remix_(Instrumental)_Manu_Chao.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rude",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Von Smith",
+      "has_synced": false,
+      "path": "select/13_Rude_Scott_Bradlee's_Postmodern_Jukebox_feat._Von_Smith.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rude",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": false,
+      "path": "select/14_Rude_Scott_Bradlee's_Postmodern_Jukebox.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Rude - Karaoke",
+      "artist": "Scott Bradlee & Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/15_Rude_-_Karaoke_Scott_Bradlee_&_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Rude (Karaoke)",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/16_Rude_(Karaoke)_Scott_Bradlee's_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Am a Very Rude Person",
+      "artist": "Thom Yorke",
+      "has_synced": true,
+      "path": "select/17_I_Am_a_Very_Rude_Person_Thom_Yorke.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Rude As Jude",
+      "artist": "Dom",
+      "has_synced": true,
+      "path": "select/18_Rude_As_Jude_Dom.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "RUDE!",
+      "artist": "Hearts2Hearts",
+      "has_synced": false,
+      "path": "select/pl_01_RUDE!_Hearts2Hearts.txt"
+    }
+  ]
+}
